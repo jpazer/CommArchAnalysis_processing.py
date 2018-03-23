@@ -1,0 +1,213 @@
+processing.py:buildtime/py/astpp.py	56	Jonathan Feinberg:76:0,Jonathan Feinberg:11:31			
+processing.py:buildtime/py/pde2py.py	126	Jonathan Feinberg:60:0,Jonathan Feinberg:19:7,Jonathan Feinberg:3:7,Jonathan Feinberg:27:6,Jonathan Feinberg:9:2,Jonathan Feinberg:2:0,Jonathan Feinberg:14:4,Jonathan Feinberg:1:1,Jonathan Feinberg:3:3,Jonathan Feinberg:6:6,Jonathan Feinberg:26:8			
+processing.py:buildtime/py/use_with.py	73	Jonathan Feinberg:73:0			
+processing.py:create_build.sh	11	Jonathan Feinberg:11:0,Jonathan Feinberg:2:2			
+processing.py:examples.py/3D/Camera/MoveEye.py	27	Jonathan Feinberg:25:0,Prabhjot Singh:8:4,Prabhjot Singh:0:2			
+processing.py:examples.py/3D/Camera/OrthoVSPerspective.py	40	Jonathan Feinberg:35:0,Jonathan Feinberg:1:0,Prabhjot Singh:27:22,Prabhjot Singh:3:4			
+processing.py:examples.py/3D/Camera/Perspective.py	37	Jonathan Feinberg:36:0,Jonathan Feinberg:1:0,Prabhjot Singh:14:14,Prabhjot Singh:1:1			
+processing.py:examples.py/3D/Form/CubicGrid.py	45	Jonathan Feinberg:45:0,Jonathan Feinberg:5:5			
+processing.py:examples.py/3D/Form/Primitives3D.py	28	Jonathan Feinberg:26:0,Prabhjot Singh:12:10			
+processing.py:examples.py/3D/Form/RGBCube.py	92	Jonathan Feinberg:92:0			
+processing.py:examples.py/3D/Form/ShapeTransform.py	74	Jonathan Feinberg:87:0,Jonathan Feinberg:33:46,Jonathan Feinberg:1:1,Jonathan Feinberg:1:1			
+processing.py:examples.py/3D/Form/Toroid.py	152	Jonathan Feinberg:139:0,Jonathan Feinberg:51:41,Jonathan Feinberg:6:6,Jonathan Feinberg:4:1,Jonathan Feinberg:1:1			
+processing.py:examples.py/3D/Form/Vertices.py	57	Jonathan Feinberg:57:0			
+processing.py:examples.py/3D/Form/bricktower.py	50	Jonathan Feinberg:55:0,Jonathan Feinberg:2:6,Jonathan Feinberg:1:1,Jonathan Feinberg:3:1,Jonathan Feinberg:3:7,Prabhjot Singh:10:9			
+processing.py:examples.py/3D/Image/Explode.py	39	Jonathan Feinberg:34:0,Jonathan Feinberg:4:3,Jonathan Feinberg:8:4			
+processing.py:examples.py/3D/Textures/TextureCube.py	80	Jonathan Feinberg:76:0,Jonathan Feinberg:0:1,Ralf Biedert:2:2,Jonathan Feinberg:6:1			
+processing.py:examples.py/3D/Typography/KineticType.py	43	Jonathan Feinberg:40:0,Jonathan Feinberg:4:0,Jonathan Feinberg:7:0,Jonathan Feinberg:0:6,Jonathan Feinberg:1:1,Jonathan Feinberg:1:1,Jonathan Feinberg:1:1,Jonathan Feinberg:1:1,Jonathan Feinberg:1:3			
+processing.py:examples.py/Basics/Color/WaveGradient.py	35	Jonathan Feinberg:32:0,Jonathan Feinberg:3:1,Ayush Goyal:2:1			
+processing.py:examples.py/Basics/Math/AdditiveWave.py	59	Jonathan Feinberg:59:0			
+processing.py:examples.py/Basics/Math/NoiseWave.py	51	Jonathan Feinberg:52:0,Jonathan Feinberg:0:1			
+processing.py:examples.py/Basics/Math/noisefield.py	22	Jonathan Feinberg:20:0,Jonathan Feinberg:2:2,Ralf Biedert:4:2,Jonathan Feinberg:3:3			
+processing.py:examples.py/Basics/Math/simple_noisefield.py	14	Jonathan Feinberg:14:0			
+processing.py:examples.py/Basics/Shape/LoadDisplayShape.py	23	Jonathan Feinberg:23:0			
+processing.py:examples.py/Basics/Shape/ScaleShape.py	24	Jonathan Feinberg:24:0			
+processing.py:examples.py/Fisica/anchors.py	91	Jonathan Feinberg:93:0,Jonathan Feinberg:0:2			
+processing.py:examples.py/Fisica/bubbles.py	65	Jonathan Feinberg:68:0,Jonathan Feinberg:0:3			
+processing.py:examples.py/Fisica/buttons.py	97	Jonathan Feinberg:97:0			
+processing.py:examples.py/Fisica/compound.py	90	Jonathan Feinberg:90:0			
+processing.py:examples.py/Fisica/contact_remove.py	51	Jonathan Feinberg:51:0			
+processing.py:examples.py/Fisica/contact_resize.py	42	Jonathan Feinberg:50:0,Jonathan Feinberg:10:18			
+processing.py:examples.py/Fisica/contacts.py	85	Jonathan Feinberg:85:0			
+processing.py:examples.py/Fisica/densities.py	59	Jonathan Feinberg:55:0,Jonathan Feinberg:8:4			
+processing.py:examples.py/Fisica/droppings.py	79	Jonathan Feinberg:79:0			
+processing.py:examples.py/Fisica/inherit.py	61	Jonathan Feinberg:61:0,Jonathan Feinberg:1:1			
+processing.py:examples.py/Fisica/joints.py	87	Jonathan Feinberg:87:0			
+processing.py:examples.py/Fisica/polygons.py	64	Jonathan Feinberg:64:0			
+processing.py:examples.py/Fisica/raycast.py	52	Jonathan Feinberg:52:0			
+processing.py:examples.py/Fisica/restitutions.py	39	Jonathan Feinberg:39:0			
+processing.py:examples.py/Library/Minim (Sound)/LoadSample.py	65	Jonathan Feinberg:65:0,Jonathan Feinberg:3:3,Jonathan Feinberg:1:1			
+processing.py:examples.py/Library/OpenGL/Esfera.py	75	Jonathan Feinberg:75:0			
+processing.py:examples.py/Library/OpenGL/SpaceJunk.py	55	Jonathan Feinberg:58:0,Jonathan Feinberg:7:10			
+processing.py:examples.py/Library/PDF Export/OneFrame.py	19	Jonathan Feinberg:22:0,Jonathan Feinberg:1:1,Alexandre B A Villares:6:9			
+processing.py:examples.py/PShader/andres.py	20	Jonathan Feinberg:20:0			
+processing.py:examples.py/Python/colornames/colorsketch.py	20	Jonathan Feinberg:17:0,Jonathan Feinberg:3:1,Jonathan Feinberg:2:1			
+processing.py:examples.py/Python/colornames/namethatcolor/NameThatColor.py	179	Jonathan Feinberg:179:0,Jonathan Feinberg:33:10,Jonathan Feinberg:10:33			
+processing.py:examples.py/Python/colornames/namethatcolor/__init__.py	2	Jonathan Feinberg:2:0			
+processing.py:examples.py/ThirdParty/controlp5-demo.py	57	Jonathan Feinberg:57:0			
+processing.py:examples.py/Topics/AdvancedData/directory_list.py	56	Jonathan Feinberg:56:0			
+processing.py:examples.py/Topics/AdvancedData/list_example.py	70	Jonathan Feinberg:74:0,Jonathan Feinberg:1:5			
+processing.py:examples.py/Topics/Effects/Metaball.py	56	Jonathan Feinberg:56:0,Jonathan Feinberg:0:2,Jonathan Feinberg:0:2,Jonathan Feinberg:3:3,Jonathan Feinberg:2:2,Jonathan Feinberg:1:1,Ralf Biedert:6:2,Jonathan Feinberg:2:2			
+processing.py:examples.py/Topics/Image Processing/EdgeDetection.py	35	Jonathan Feinberg:35:0			
+processing.py:examples.py/peasycam.py	19	Jonathan Feinberg:19:0			
+processing.py:misc/ast/astpp.py	76	Jonathan Feinberg:76:0			
+processing.py:mode/examples/Basics/Lists/ListObjects/module.py	29	Jonathan Feinberg:29:0			
+processing.py:mode/examples/Basics/Math/Arctangent/eye.py	20	Jonathan Feinberg:50:0,Jonathan Feinberg:0:29,Jonathan Feinberg:1:2			
+processing.py:mode/examples/Basics/Objects/CompositeObjects/egg.py	27	Miles Peyton:31:0,Miles Peyton:0:2,Jonathan Feinberg:2:4			
+processing.py:mode/examples/Basics/Objects/CompositeObjects/egg_ring.py	19	Miles Peyton:19:0			
+processing.py:mode/examples/Basics/Objects/CompositeObjects/ring.py	22	Miles Peyton:29:0,Miles Peyton:0:7,Miles Peyton:2:2			
+processing.py:mode/examples/Contributed Libraries in Python/MSAFluid/particle.py	92	tildebyte:92:0			
+processing.py:mode/examples/Contributed Libraries in Python/MSAFluid/particle_system.py	83	tildebyte:83:0,tildebyte:1:1			
+processing.py:mode/examples/Demos/Graphics/Particles/particle.py	42	Jonathan Feinberg:42:0,tildebyte:2:2			
+processing.py:mode/examples/Demos/Graphics/Particles/particle_system.py	22	Jonathan Feinberg:25:0,tildebyte:9:11,tildebyte:7:8			
+processing.py:mode/examples/Demos/Graphics/Tentacles/segment.py	32	tildebyte:32:0			
+processing.py:mode/examples/Demos/Graphics/Tentacles/tentacle.py	25	tildebyte:25:0			
+processing.py:mode/examples/Demos/Graphics/Trefoil/Surface.py	103	Alexandre B A Villares:106:0,Alexandre B A Villares:1:4			
+processing.py:mode/examples/Demos/Graphics/Yellowtail/gesture.py	206	Jonathan Feinberg:206:0			
+processing.py:mode/examples/Demos/Graphics/Yellowtail/vec3f.py	13	Jonathan Feinberg:13:0			
+processing.py:mode/examples/Topics/AdvancedData/A_List/Ball.py	31	Alexandre B A Villares:34:0,Alexandre B A Villares:2:5			
+processing.py:mode/examples/Topics/AdvancedData/LoadSaveTable/Bubble.py	28	Surya Midatala:31:0,Surya Midatala:6:9			
+processing.py:mode/examples/Topics/Animation/AnimatedSprite/animation.py	18	Miles Peyton:19:0,tildebyte:1:2,tildebyte:1:1			
+processing.py:mode/examples/Topics/Cellular Automata/Wolfram/CA.py	87	Alexandre B A Villares:90:0,Alexandre B A Villares:7:10			
+processing.py:mode/examples/Topics/Create Shapes/ParticleSystemPShape/particle.py	61	Miles Peyton:70:0,Miles Peyton:11:8,Miles Peyton:2:11,Miles Peyton:6:6,Jonathan Feinberg:7:7,Ben Alkov:0:3			
+processing.py:mode/examples/Topics/Create Shapes/ParticleSystemPShape/particle_system.py	33	Miles Peyton:34:0,Miles Peyton:0:2,Miles Peyton:1:1,Jonathan Feinberg:2:1			
+processing.py:mode/examples/Topics/Create Shapes/PolygonPShapeOOP/star.py	39	Miles Peyton:40:0,Jonathan Feinberg:1:2			
+processing.py:mode/examples/Topics/Create Shapes/PolygonPShapeOOP2/polygon.py	21	Miles Peyton:29:0,Miles Peyton:1:7,Miles Peyton:2:3,Jonathan Feinberg:1:2			
+processing.py:mode/examples/Topics/Create Shapes/PolygonPShapeOOP3/polygon.py	21	Miles Peyton:29:0,Miles Peyton:0:7,Miles Peyton:2:2,Jonathan Feinberg:1:2			
+processing.py:mode/examples/Topics/Create Shapes/WigglePShape/wiggler.py	51	Miles Peyton:59:0,Miles Peyton:1:1,Miles Peyton:7:12,Miles Peyton:0:1,Jonathan Feinberg:1:2,Ben Alkov:1:2			
+processing.py:mode/examples/Topics/Fractals and L-Systems/Koch/koch_fractal.py	59	Miles Peyton:62:0,Miles Peyton:10:13			
+processing.py:mode/examples/Topics/Fractals and L-Systems/Koch/koch_line.py	53	Miles Peyton:56:0,Miles Peyton:2:2,Miles Peyton:0:3			
+processing.py:mode/examples/Topics/Fractals and L-Systems/PenroseSnowflake/l_system.py	49	Miles Peyton:69:0,Miles Peyton:0:15,Miles Peyton:0:5,Jonathan Feinberg:1:2,Jonathan Feinberg:2:1			
+processing.py:mode/examples/Topics/Fractals and L-Systems/PenroseSnowflake/penrose_snowflake_l_system.py	76	Miles Peyton:85:0,Miles Peyton:0:8,Miles Peyton:2:3,Jonathan Feinberg:1:2,Jonathan Feinberg:2:1			
+processing.py:mode/examples/Topics/Fractals and L-Systems/PenroseTile/l_system.py	50	Miles Peyton:50:0,Jonathan Feinberg:1:2,Jonathan Feinberg:2:1			
+processing.py:mode/examples/Topics/Fractals and L-Systems/PenroseTile/penrose_l_system.py	93	Miles Peyton:94:0,Miles Peyton:1:2,Jonathan Feinberg:1:2,Jonathan Feinberg:2:1			
+processing.py:mode/examples/Topics/Fractals and L-Systems/Pentigree/l_system.py	51	Miles Peyton:51:0,Jonathan Feinberg:1:2,Jonathan Feinberg:2:1			
+processing.py:mode/examples/Topics/Fractals and L-Systems/Pentigree/pentigree_l_system.py	56	Miles Peyton:57:0,Jonathan Feinberg:1:2,Jonathan Feinberg:2:2			
+processing.py:mode/examples/Topics/GUI/Handles/handle.py	58	tildebyte:58:0			
+processing.py:mode/examples/Topics/GUI/Scrollbar/hscrollbar.py	47	tildebyte:47:0			
+processing.py:mode/examples/Topics/Geometry/Icosahedra/icosahedron.py	80	tildebyte:200:0,tildebyte:52:133,tildebyte:13:50,tildebyte:1:2,tildebyte:1:2			
+processing.py:mode/examples/Topics/Geometry/Icosahedra/shape3d.py	6	tildebyte:21:0,tildebyte:0:15			
+processing.py:mode/examples/Topics/Geometry/NoiseSphere/hair.py	31	tildebyte:32:0,tildebyte:6:6,Jonathan Feinberg:1:2			
+processing.py:mode/examples/Topics/Geometry/SpaceJunk/cube.py	106	tildebyte:108:0,tildebyte:2:2,Jonathan Feinberg:1:2,Jonathan Feinberg:0:1			
+processing.py:mode/examples/Topics/Motion/BouncyBubbles/ball.py	51	tildebyte:55:0,tildebyte:2:2,tildebyte:11:14,tildebyte:1:2			
+processing.py:mode/examples/Topics/Motion/CircleCollision/ball.py	104	tildebyte:104:0			
+processing.py:mode/examples/Topics/Motion/CubesWithinCube/cube.py	91	tildebyte:95:0,tildebyte:5:7,tildebyte:6:8			
+processing.py:mode/examples/Topics/Motion/Reflection2/ground.py	11	tildebyte:11:0			
+processing.py:mode/examples/Topics/Motion/Reflection2/orb.py	67	tildebyte:67:0			
+processing.py:mode/examples/Topics/Simulate/Flocking/boid.py	162	Miles Peyton:163:0,Miles Peyton:8:7,Jonathan Feinberg:2:4			
+processing.py:mode/examples/Topics/Simulate/Flocking/flock.py	14	Miles Peyton:14:0			
+processing.py:mode/examples/Topics/Simulate/ForcesWithVectors/liquid.py	44	Miles Peyton:48:0,Miles Peyton:3:5,Jonathan Feinberg:0:2			
+processing.py:mode/examples/Topics/Simulate/ForcesWithVectors/mover.py	50	Miles Peyton:50:0			
+processing.py:mode/examples/Topics/Simulate/GravitationalAttraction3D/planet.py	34	Miles Peyton:35:0,Jonathan Feinberg:1:2			
+processing.py:mode/examples/Topics/Simulate/GravitationalAttraction3D/sun.py	34	Miles Peyton:35:0,Jonathan Feinberg:1:2			
+processing.py:mode/examples/Topics/Simulate/MultipleParticleSystems/crazy_particle.py	37	Miles Peyton:32:0,Miles Peyton:16:15,Miles Peyton:16:11,Jonathan Feinberg:1:2,Jonathan Feinberg:1:1			
+processing.py:mode/examples/Topics/Simulate/MultipleParticleSystems/particle.py	29	Miles Peyton:32:0,Miles Peyton:19:22,Miles Peyton:1:1			
+processing.py:mode/examples/Topics/Simulate/MultipleParticleSystems/particle_system.py	37	Miles Peyton:39:0,Miles Peyton:28:30,Miles Peyton:1:1			
+processing.py:mode/examples/Topics/Simulate/SimpleParticleSystem/particle.py	29	Miles Peyton:37:0,Miles Peyton:19:27,Miles Peyton:1:1			
+processing.py:mode/examples/Topics/Simulate/SimpleParticleSystem/particle_system.py	22	Miles Peyton:21:0,Miles Peyton:16:15,Miles Peyton:1:1			
+processing.py:mode/examples/Topics/Simulate/SmokeParticleSystem/particle.py	45	Miles Peyton:52:0,Miles Peyton:30:34,Miles Peyton:1:4			
+processing.py:mode/examples/Topics/Simulate/SmokeParticleSystem/particle_system.py	31	Miles Peyton:35:0,Miles Peyton:21:25,Miles Peyton:1:1			
+processing.py:mode/examples/Topics/Vectors/AccelerationWithVectors/mover.py	40	Miles Peyton:43:0,Miles Peyton:3:6			
+processing.py:mode/formatter/autopep8.py	3589	Jonathan Feinberg:3589:0			
+processing.py:mode/formatter/format_server.py	36	Jonathan Feinberg:26:0,Jonathan Feinberg:5:1,Jonathan Feinberg:3:1,Jonathan Feinberg:6:4,Jonathan Feinberg:3:1,Jonathan Feinberg:2:2			
+processing.py:mode/formatter/pep8.py	1944	Jonathan Feinberg:1944:0			
+processing.py:processing-py.sh	123	Ralf Biedert:7:0,Ralf Biedert:78:4,Ralf Biedert:2:0,Ralf Biedert:6:3,Ralf Biedert:5:2,Ralf Biedert:22:2,Ralf Biedert:13:0,Jonathan Feinberg:3:3,Amit Kotlovski:2:1			
+processing.py:runtime/src/jycessing/DevNullPrinter.java	16	Jonathan Feinberg:11:0,Jonathan Feinberg:5:0			
+processing.py:runtime/src/jycessing/DisplayType.java	6	James:6:0,Jonathan Feinberg:1:2,Jonathan Feinberg:2:1			
+processing.py:runtime/src/jycessing/IOUtil.java	94	Jonathan Feinberg:38:0,Jonathan Feinberg:41:4,Jonathan Feinberg:22:18,Jonathan Feinberg:2:2,Jonathan Feinberg:12:0,Jonathan Feinberg:4:1			
+processing.py:runtime/src/jycessing/LibraryImporter.java	433	Jonathan Feinberg:111:0,Jonathan Feinberg:25:7,Jonathan Feinberg:5:2,Jonathan Feinberg:13:6,Jonathan Feinberg:1:3,Jonathan Feinberg:1:1,Jonathan Feinberg:33:2,Jonathan Feinberg:2:14,Jonathan Feinberg:1:1,Jonathan Feinberg:125:39,Jonathan Feinberg:1:4,James:1:3,James Gilles:16:1,James Gilles:2:8,James Gilles:192:30,James Gilles:17:26,James Gilles:14:15,James Gilles:7:4,Jonathan Feinberg:30:23,Jonathan Feinberg:2:3,Jonathan Feinberg:46:37,Jonathan Feinberg:2:0,Jonathan Feinberg:2:0,Jonathan Feinberg:15:13,Jonathan Feinberg:13:0			
+processing.py:runtime/src/jycessing/MixedModeError.java	11	Jonathan Feinberg:7:0,Jonathan Feinberg:1:1,Jonathan Feinberg:5:0,Jonathan Feinberg:0:1			
+processing.py:runtime/src/jycessing/MixedSmoothError.java	11	Jonathan Feinberg:11:0			
+processing.py:runtime/src/jycessing/PAppletJythonDriver.java	1695	Jonathan Feinberg:235:0,Jonathan Feinberg:17:0,Jonathan Feinberg:14:0,Jonathan Feinberg:2188:37,Jonathan Feinberg:0:2363,Jonathan Feinberg:17:12,Jonathan Feinberg:29:9,Jonathan Feinberg:95:14,Jonathan Feinberg:25:8,Jonathan Feinberg:7:0,Jonathan Feinberg:2:9,Jonathan Feinberg:5:0,Jonathan Feinberg:1:0,Jonathan Feinberg:15:0,Jonathan Feinberg:5:2,Jonathan Feinberg:1:2,Jonathan Feinberg:13:6,Jonathan Feinberg:3:3,Jonathan Feinberg:72:31,Jonathan Feinberg:17:3,Jonathan Feinberg:5:3,Jonathan Feinberg:9:7,Jonathan Feinberg:0:3,Jonathan Feinberg:11:2,Jonathan Feinberg:14:11,Jonathan Feinberg:54:0,Jonathan Feinberg:1:0,Jonathan Feinberg:32:7,Jonathan Feinberg:21:20,Jonathan Feinberg:31:22,Jonathan Feinberg:6:0,Jonathan Feinberg:2:0,Jonathan Feinberg:16:1,Jonathan Feinberg:11:10,Jonathan Feinberg:3:2,Jonathan Feinberg:5:2,Jonathan Feinberg:12:16,Ralf Biedert:2:2,Ralf Biedert:14:1,Ralf Biedert:36:1,Jonathan Feinberg:14:1,Jonathan Feinberg:27:0,Jonathan Feinberg:8:2,Jonathan Feinberg:40:1,Jonathan Feinberg:189:75,Jonathan Feinberg:12:46,Jonathan Feinberg:35:0,Jonathan Feinberg:39:4,Jonathan Feinberg:1:1,Jonathan Feinberg:5:7,Jonathan Feinberg:14:5,Jonathan Feinberg:1:36,Jonathan Feinberg:44:4,Jonathan Feinberg:31:20,Jonathan Feinberg:12:0,Jonathan Feinberg:2:2,Jonathan Feinberg:10:0,Jonathan Feinberg:5:1,Jonathan Feinberg:38:22,Jonathan Feinberg:19:98,Jonathan Feinberg:25:9,Jonathan Feinberg:22:7,Jonathan Feinberg:43:20,Jonathan Feinberg:7:3,Jonathan Feinberg:1:0,Jonathan Feinberg:6:1,Jonathan Feinberg:4:3,Jonathan Feinberg:24:0,Jonathan Feinberg:9:2,Jonathan Feinberg:1:1,Jonathan Feinberg:1:7,Jonathan Feinberg:8:0,Jonathan Feinberg:5:1,Jonathan Feinberg:1:1,Jonathan Feinberg:3:3,Jonathan Feinberg:41:4,Jonathan Feinberg:81:17,Jonathan Feinberg:82:1,Jonathan Feinberg:36:24,Jonathan Feinberg:38:41,Jonathan Feinberg:0:1,Jonathan Feinberg:16:16,Jonathan Feinberg:16:30,Jonathan Feinberg:2:0,Jonathan Feinberg:22:18,Jonathan Feinberg:12:0,Jonathan Feinberg:10:3,Jonathan Feinberg:2:2,Jonathan Feinberg:40:2,Jonathan Feinberg:44:2,Jonathan Feinberg:4:4,Jonathan Feinberg:1:5,Jonathan Feinberg:39:37,Jonathan Feinberg:2:62,Jonathan Feinberg:165:67,Jonathan Feinberg:0:12,Jonathan Feinberg:28:7,Jonathan Feinberg:12:0,Jonathan Feinberg:2:0,Jonathan Feinberg:2:0,James Gilles:10:0,James Gilles:1:1,Jonathan Feinberg:2:3,Jonathan Feinberg:54:4,Jonathan Feinberg:36:1,Jonathan Feinberg:5:1,James:1:0,James:0:1,James Gilles:32:0,Jonathan Feinberg:20:12,Jonathan Feinberg:7:2,Jonathan Feinberg:24:18,Jonathan Feinberg:6:4,Jonathan Feinberg:3:4,Jonathan Feinberg:2:1,Jonathan Feinberg:15:4,Jonathan Feinberg:8:0,Jonathan Feinberg:2:24,Jonathan Feinberg:6:3,Jonathan Feinberg:11:0,Jonathan Feinberg:4:0,Ben Fry:8:3,Ben Fry:4:0,Luca Damasco:91:55,Luca Damasco:11:12,Luxapodular:5:12,Luxapodular:13:13,Luxapodular:7:2,Luxapodular:0:1,Luxapodular:0:80,Luxapodular:4:1,Luxapodular:0:12,Jonathan Feinberg:44:53,Jonathan Feinberg:0:7,Jonathan Feinberg:0:8,Jonathan Feinberg:2:4,Jonathan Feinberg:1:7,Jonathan Feinberg:57:9,Jonathan Feinberg:3:1,Jonathan Feinberg:163:77,Jonathan Feinberg:43:31,Jonathan Feinberg:87:160,Jonathan Feinberg:2:1,Jonathan Feinberg:21:4,Jonathan Feinberg:8:1,Jonathan Feinberg:27:0,Jonathan Feinberg:13:0,Jonathan Feinberg:25:24,Jonathan Feinberg:3:0,Jonathan Feinberg:138:74,Jonathan Feinberg:166:1,Jonathan Feinberg:1:1,Jonathan Feinberg:60:3,Jonathan Feinberg:31:1,Jonathan Feinberg:47:0			
+processing.py:runtime/src/jycessing/Printer.java	7	Jonathan Feinberg:5:0,Jonathan Feinberg:2:0			
+processing.py:runtime/src/jycessing/PythonSketchError.java	42	Jonathan Feinberg:27:0,Jonathan Feinberg:14:0,Jonathan Feinberg:4:4,Jonathan Feinberg:12:11,Jonathan Feinberg:2:2			
+processing.py:runtime/src/jycessing/ReflectionUtil.java	49	Jonathan Feinberg:42:0,Jonathan Feinberg:7:0,Jonathan Feinberg:4:4			
+processing.py:runtime/src/jycessing/RunnableSketch.java	37	James:17:0,James:6:2,James Gilles:34:1,Jonathan Feinberg:9:26			
+processing.py:runtime/src/jycessing/Runner.java	421	Jonathan Feinberg:96:0,Jonathan Feinberg:28:0,Jonathan Feinberg:3:74,Jonathan Feinberg:1:1,Jonathan Feinberg:20:5,Jonathan Feinberg:2:14,Jonathan Feinberg:2:8,Jonathan Feinberg:3:5,Jonathan Feinberg:8:0,Jonathan Feinberg:22:2,Jonathan Feinberg:1:11,Jonathan Feinberg:69:1,Jonathan Feinberg:1:0,Jonathan Feinberg:6:3,Jonathan Feinberg:62:14,Jonathan Feinberg:6:5,Jonathan Feinberg:6:1,Jonathan Feinberg:9:1,Jonathan Feinberg:3:1,Jonathan Feinberg:5:0,Jonathan Feinberg:12:5,Jonathan Feinberg:12:5,Jonathan Feinberg:0:1,Jonathan Feinberg:54:13,Jonathan Feinberg:20:0,Jonathan Feinberg:15:27,Jonathan Feinberg:14:0,Jonathan Feinberg:5:7,Jonathan Feinberg:24:29,Jonathan Feinberg:33:3,Jonathan Feinberg:1:1,Jonathan Feinberg:59:54,Jonathan Feinberg:12:23,Jonathan Feinberg:23:1,Jonathan Feinberg:6:7,Ralf Biedert:56:2,Ralf Biedert:6:8,Ralf Biedert:6:0,Ralf Biedert:7:0,Ralf Biedert:42:14,Jonathan Feinberg:2:8,Jonathan Feinberg:7:2,Jonathan Feinberg:16:2,Jonathan Feinberg:15:19,Jonathan Feinberg:3:4,Jonathan Feinberg:7:2,Jonathan Feinberg:5:12,Jonathan Feinberg:1:1,Jonathan Feinberg:59:26,Jonathan Feinberg:15:76,Jonathan Feinberg:64:18,Jonathan Feinberg:1:0,Jonathan Feinberg:14:27,Jonathan Feinberg:19:20,Jonathan Feinberg:4:1,Jonathan Feinberg:8:7,Jonathan Feinberg:54:42,Jonathan Feinberg:22:30,Jonathan Feinberg:3:0,Jonathan Feinberg:6:0,Jonathan Feinberg:4:33,Jonathan Feinberg:0:4,Jonathan Feinberg:1:1,Jonathan Feinberg:5:4,Jonathan Feinberg:14:0,Jonathan Feinberg:9:7,Jonathan Feinberg:1:1,Jonathan Feinberg:6:14,Jonathan Feinberg:1:1,Jonathan Feinberg:12:12,Jonathan Feinberg:0:1,Jonathan Feinberg:3:4,Jonathan Feinberg:1:5,Jonathan Feinberg:1:0,Jonathan Feinberg:14:0,Jonathan Feinberg:25:7,Jonathan Feinberg:22:15,Jonathan Feinberg:8:0,Jonathan Feinberg:15:10,Jonathan Feinberg:3:0,James Gilles:2:2,James Gilles:8:0,James Gilles:64:18,James Gilles:6:5,Jonathan Feinberg:3:2,Jonathan Feinberg:2:10,James Gilles:6:94,James Gilles:4:0,James Gilles:14:1,Jonathan Feinberg:1:1,James:93:120,James:9:50,James:5:6,James:8:0,James Gilles:4:8,Jonathan Feinberg:5:0,Jonathan Feinberg:5:0,James Gilles:14:9,James Gilles:11:2,James Gilles:7:2,Jonathan Feinberg:3:2,Ben Fry:2:1,Jonathan Feinberg:13:5,Jonathan Feinberg:20:12,Jonathan Feinberg:37:28,Jonathan Feinberg:12:22,Jonathan Feinberg:5:1,Jonathan Feinberg:48:49,Jonathan Feinberg:6:7,Jonathan Feinberg:3:0			
+processing.py:runtime/src/jycessing/SketchPositionListener.java	7	Jonathan Feinberg:7:0			
+processing.py:runtime/src/jycessing/StreamPrinter.java	23	Jonathan Feinberg:17:0,Jonathan Feinberg:1:0,Jonathan Feinberg:5:0			
+processing.py:runtime/src/jycessing/TreeCopier.java	114	Jonathan Feinberg:116:0,Jonathan Feinberg:1:3			
+processing.py:runtime/src/jycessing/UnexpectedInvocationError.java	26	Jonathan Feinberg:28:0,Jonathan Feinberg:2:4			
+processing.py:runtime/src/jycessing/annotations/PythonUsage.java	24	Ralf Biedert:26:0,Ralf Biedert:1:1,Jonathan Feinberg:2:2,Jonathan Feinberg:3:5			
+processing.py:runtime/src/jycessing/core.py	694	Jonathan Feinberg:30:0,Jonathan Feinberg:15:1,Jonathan Feinberg:44:5,Jonathan Feinberg:1:6,Jonathan Feinberg:3:6,Jonathan Feinberg:1:0,Ralf Biedert:7:0,Ralf Biedert:2:0,Jonathan Feinberg:4:18,Jonathan Feinberg:283:7,Jonathan Feinberg:27:4,Jonathan Feinberg:0:7,Jonathan Feinberg:1:2,Jonathan Feinberg:19:0,Jonathan Feinberg:15:19,Jonathan Feinberg:65:15,Jonathan Feinberg:2:2,James Gilles:41:3,James Gilles:7:7,Jonathan Feinberg:1:0,Jonathan Feinberg:1:0,Jonathan Feinberg:16:0,Jonathan Feinberg:7:2,Jonathan Feinberg:17:3,Jonathan Feinberg:20:0,Jonathan Feinberg:1:0,Jonathan Feinberg:2:1,Jonathan Feinberg:3:1,Jonathan Feinberg:31:13,Jonathan Feinberg:0:4,Jonathan Feinberg:6:4,Jonathan Feinberg:4:21,Jonathan Feinberg:91:4,Jonathan Feinberg:8:0,Jonathan Feinberg:3:0,Jonathan Feinberg:28:28,Jonathan Feinberg:2:0,Jonathan Feinberg:1:1,Jonathan Feinberg:8:4,Jonathan Feinberg:9:2,Jonathan Feinberg:2:0,Jonathan Feinberg:7:1,Jonathan Feinberg:88:72,Jonathan Feinberg:1:4,Jonathan Feinberg:2:0,Jonathan Feinberg:0:9,Jonathan Feinberg:1:2,Jonathan Feinberg:1:1,James:16:0,James Gilles:1:3,James Gilles:5:2,Jonathan Feinberg:6:2,Jonathan Feinberg:6:2,Adam Parrish:10:4,Jonathan Feinberg:7:2,Jonathan Feinberg:7:2,Jonathan Feinberg:23:0,Luca Damasco:27:2,Luxapodular:15:22,Jonathan Feinberg:0:60,Jonathan Feinberg:1:1,Jonathan Feinberg:2:0,Jonathan Feinberg:1:0,Jonathan Feinberg:1:1,Allison Parrish:12:0,Jonathan Feinberg:2:2,Jonathan Feinberg:4:0,Jonathan Feinberg:5:2,Jonathan Feinberg:1:0			
+processing.py:runtime/src/jycessing/detect_sketch_mode.py	91	Jonathan Feinberg:82:0,Jonathan Feinberg:5:5,Jonathan Feinberg:10:5,Jonathan Feinberg:1:1,Jonathan Feinberg:2:0,Jonathan Feinberg:2:0			
+processing.py:runtime/src/jycessing/get_settings.py	49	Jonathan Feinberg:39:0,Jonathan Feinberg:1:1,Jonathan Feinberg:12:2			
+processing.py:runtime/src/jycessing/jni/OSX.java	27	Jonathan Feinberg:19:0,Jonathan Feinberg:10:2			
+processing.py:runtime/src/jycessing/jni/jycessing_jni_OSX.h	21	Jonathan Feinberg:21:0			
+processing.py:runtime/src/jycessing/launcher/LaunchHelper.java	29	Ralf Biedert:10:0,Ralf Biedert:25:0,Jonathan Feinberg:2:2,Jonathan Feinberg:7:13,James Gilles:3:3,James:3:2,James Gilles:0:1			
+processing.py:runtime/src/jycessing/launcher/StandaloneSketch.java	184	James:57:0,James:131:15,James:7:2,James Gilles:17:2,Jonathan Feinberg:6:6,Jonathan Feinberg:2:3,Jonathan Feinberg:5:13			
+processing.py:runtime/src/jycessing/launcher/launcher.py	159	Ralf Biedert:76:0,Ralf Biedert:80:28,Ralf Biedert:12:0,Ralf Biedert:14:15,Ralf Biedert:13:5,Ralf Biedert:5:4,Jonathan Feinberg:1:1,James Gilles:1:1,James:20:10,James:2:1			
+processing.py:runtime/src/jycessing/mode/FormatServer.java	137	Jonathan Feinberg:48:0,Jonathan Feinberg:19:3,Jonathan Feinberg:81:6,Jonathan Feinberg:1:1,Jonathan Feinberg:1:1,Jonathan Feinberg:10:4,Jonathan Feinberg:16:9,Jonathan Feinberg:4:4,Jonathan Feinberg:4:15,Luxapodular:2:1,Jonathan Feinberg:1:2,Jonathan Feinberg:20:24			
+processing.py:runtime/src/jycessing/mode/PyEditor.java	454	Jonathan Feinberg:199:0,Jonathan Feinberg:59:20,Jonathan Feinberg:36:11,Jonathan Feinberg:14:4,Jonathan Feinberg:35:7,Jonathan Feinberg:1:35,Jonathan Feinberg:23:93,Jonathan Feinberg:1:1,Jonathan Feinberg:6:2,Jonathan Feinberg:1:1,Jonathan Feinberg:1:1,Jonathan Feinberg:39:19,Jonathan Feinberg:15:18,Jonathan Feinberg:1:1,Jonathan Feinberg:12:0,Jonathan Feinberg:1:0,Jonathan Feinberg:18:0,Jonathan Feinberg:29:0,Jonathan Feinberg:3:1,Jonathan Feinberg:42:7,Jonathan Feinberg:14:14,Jonathan Feinberg:87:8,Jonathan Feinberg:3:4,Jonathan Feinberg:5:3,Jonathan Feinberg:3:3,Jonathan Feinberg:3:5,Jonathan Feinberg:12:4,James Gilles:47:1,James Gilles:166:4,James Gilles:11:2,James Gilles:7:195,James Gilles:1:1,Jonathan Feinberg:3:14,James Gilles:2:2,James Gilles:3:2,James Gilles:4:0,James:18:24,James:0:3,James:5:4,James Gilles:0:4,James Gilles:0:1,James Gilles:2:2,Jonathan Feinberg:8:10,Ben Fry:12:12,Ben Fry:4:4,Luxapodular:4:4,Luxapodular:1:0,Luxapodular:7:4,Jonathan Feinberg:4:4,Jonathan Feinberg:10:2,Prabhjot Singh:1:1,Prabhjot Singh:18:0,Jonathan Feinberg:3:13,Jonathan Feinberg:7:0,Jonathan Feinberg:55:37,Jonathan Feinberg:1:7,Jonathan Feinberg:6:0			
+processing.py:runtime/src/jycessing/mode/PyInputHandler.java	406	Jonathan Feinberg:120:0,Jonathan Feinberg:5:5,Jonathan Feinberg:116:16,Jonathan Feinberg:10:3,Jonathan Feinberg:55:16,Jonathan Feinberg:3:3,Jonathan Feinberg:13:13,Jonathan Feinberg:3:8,Jonathan Feinberg:5:2,Jonathan Feinberg:4:3,Jonathan Feinberg:12:0,Jonathan Feinberg:76:22,Jonathan Feinberg:69:29,Jonathan Feinberg:0:3,Jonathan Feinberg:10:1,Ben Fry:9:8,Luca Damasco:33:2,Luxapodular:1:1,Jonathan Feinberg:1:1,Jonathan Feinberg:1:10,Jonathan Feinberg:2:2,Jonathan Feinberg:16:2,Jonathan Feinberg:19:30,Jonathan Feinberg:26:23			
+processing.py:runtime/src/jycessing/mode/PyKeywordMap.java	86	Jonathan Feinberg:89:0,Jonathan Feinberg:0:2,Jonathan Feinberg:7:7,Jonathan Feinberg:7:8			
+processing.py:runtime/src/jycessing/mode/PyToolbar.java	31	Jonathan Feinberg:89:0,Ben Fry:8:66,Luxapodular:2:2			
+processing.py:runtime/src/jycessing/mode/PythonMode.java	138	Jonathan Feinberg:41:0,Jonathan Feinberg:3:3,Jonathan Feinberg:4:1,Jonathan Feinberg:5:0,Jonathan Feinberg:12:0,Jonathan Feinberg:17:1,Jonathan Feinberg:4:0,Jonathan Feinberg:3:3,Jonathan Feinberg:3:3,Jonathan Feinberg:6:1,Jonathan Feinberg:24:7,Jonathan Feinberg:5:5,Jonathan Feinberg:6:0,Jonathan Feinberg:0:8,Jonathan Feinberg:13:0,Luxapodular:2:2,Luxapodular:10:1,Jonathan Feinberg:3:3,Jonathan Feinberg:12:13,Jonathan Feinberg:17:1			
+processing.py:runtime/src/jycessing/mode/PythonTokenMarker.java	255	Jonathan Feinberg:218:0,Jonathan Feinberg:14:14,Jonathan Feinberg:14:11,Jonathan Feinberg:1:0,Jonathan Feinberg:2:0,Jonathan Feinberg:65:34,Jonathan Feinberg:2:2			
+processing.py:runtime/src/jycessing/mode/SyntaxUtilities.java	48	Jonathan Feinberg:51:0,Jonathan Feinberg:0:2,Jonathan Feinberg:6:6,Jonathan Feinberg:4:5			
+processing.py:runtime/src/jycessing/mode/export/Arch.java	16	James:12:0,James:7:2,Jonathan Feinberg:1:1,Jonathan Feinberg:4:5			
+processing.py:runtime/src/jycessing/mode/export/ExportDialog.java	389	James Gilles:91:0,James Gilles:1:1,James Gilles:3:0,James Gilles:1:1,James Gilles:262:7,James Gilles:0:1,James:30:24,James Gilles:34:38,James Gilles:14:14,Jonathan Feinberg:29:17,Luxapodular:1:1,Luxapodular:9:8,Jonathan Feinberg:1:2,Jonathan Feinberg:60:33			
+processing.py:runtime/src/jycessing/mode/export/ExportedSketch.java	151	James:131:0,James:3:2,James:4:0,James:5:1,James Gilles:5:5,James Gilles:14:1,Jonathan Feinberg:3:4,Luca Damasco:4:4,Jonathan Feinberg:4:5			
+processing.py:runtime/src/jycessing/mode/export/Exporter.java	93	James Gilles:121:0,James Gilles:11:23,James Gilles:5:67,James Gilles:2:0,James Gilles:4:6,James Gilles:33:3,James:4:4,James:1:3,James:2:1,James:8:3,James Gilles:1:1,James Gilles:2:1,James Gilles:11:0,Jonathan Feinberg:10:8,Luxapodular:3:2,Jonathan Feinberg:1:2,Jonathan Feinberg:3:5			
+processing.py:runtime/src/jycessing/mode/export/ImportExtractor.java	137	James:131:0,James:7:6,James:20:17,James Gilles:6:6,James Gilles:1:3,Jonathan Feinberg:10:7,Luxapodular:4:2,Jonathan Feinberg:2:2,Jonathan Feinberg:2:2,Jonathan Feinberg:15:16			
+processing.py:runtime/src/jycessing/mode/export/LinuxExport.java	175	James Gilles:82:0,James Gilles:108:0,James Gilles:15:53,James Gilles:17:57,James Gilles:0:2,James Gilles:77:2,James Gilles:1:1,James Gilles:1:0,James Gilles:5:0,James Gilles:6:5,James Gilles:16:0,James:5:5,James:28:13,James:31:8,James Gilles:4:85,James Gilles:6:7,James Gilles:3:3,James Gilles:12:9,James Gilles:1:1,James Gilles:3:4,James Gilles:3:3,James Gilles:14:5,James Gilles:1:1,James Gilles:2:1,James Gilles:5:0,Jonathan Feinberg:6:4,Luca Damasco:2:2,Luxapodular:3:1,Luxapodular:2:1,Jonathan Feinberg:1:2,Jonathan Feinberg:2:2,Jonathan Feinberg:15:25			
+processing.py:runtime/src/jycessing/mode/export/MacExport.java	273	James Gilles:39:0,James:3:4,James:3:2,James:10:3,James Gilles:60:0,James Gilles:11:15,James Gilles:2:4,James Gilles:2:2,James Gilles:34:4,James Gilles:141:16,James Gilles:5:4,James Gilles:29:30,James Gilles:1:1,James Gilles:12:10,James Gilles:3:3,James Gilles:16:9,James Gilles:1:1,James Gilles:5:0,James Gilles:8:0,Jonathan Feinberg:12:10,Luca Damasco:2:2,Luxapodular:4:3,Luxapodular:2:1,Jonathan Feinberg:1:2,Jonathan Feinberg:4:3,Jonathan Feinberg:40:48			
+processing.py:runtime/src/jycessing/mode/export/PlatformExport.java	121	James Gilles:27:0,James Gilles:2:17,James Gilles:0:1,James:5:0,James Gilles:108:2,James Gilles:4:4,James Gilles:1:1,James Gilles:2:1,Luxapodular:10:9,Luxapodular:4:3,Jonathan Feinberg:1:2,Jonathan Feinberg:2:2,Jonathan Feinberg:13:16			
+processing.py:runtime/src/jycessing/mode/export/WindowsExport.java	276	James Gilles:40:0,James:7:7,James:3:3,James:8:3,James Gilles:1:6,James Gilles:1:0,James Gilles:217:1,James Gilles:22:18,James Gilles:14:7,James Gilles:3:2,James Gilles:5:4,James Gilles:12:6,James Gilles:0:4,James Gilles:2:1,Jonathan Feinberg:19:15,Luca Damasco:2:2,Luxapodular:2:1,Luxapodular:3:2,Jonathan Feinberg:1:2,Jonathan Feinberg:36:38			
+processing.py:runtime/src/jycessing/mode/run/ModeService.java	19	Jonathan Feinberg:12:0,Jonathan Feinberg:1:1,Jonathan Feinberg:4:0,Jonathan Feinberg:5:5,Jonathan Feinberg:2:2,Jonathan Feinberg:3:0			
+processing.py:runtime/src/jycessing/mode/run/ModeWaiter.java	8	Jonathan Feinberg:8:0			
+processing.py:runtime/src/jycessing/mode/run/OSXAdapter.java	233	Jonathan Feinberg:230:0,Jonathan Feinberg:10:17,Jonathan Feinberg:14:8,Jonathan Feinberg:20:16			
+processing.py:runtime/src/jycessing/mode/run/PdeSketch.java	143	James:130:0,James:2:1,James:0:10,James:10:5,James:1:0,James Gilles:1:1,James Gilles:1:0,James Gilles:0:1,James Gilles:12:0,Jonathan Feinberg:6:10,Jonathan Feinberg:2:5,Luca Damasco:1:1,Luxapodular:2:1,Jonathan Feinberg:4:4,Jonathan Feinberg:9:5,Jonathan Feinberg:6:0			
+processing.py:runtime/src/jycessing/mode/run/RMIUtils.java	129	Jonathan Feinberg:81:0,Jonathan Feinberg:8:9,Jonathan Feinberg:2:0,Jonathan Feinberg:11:1,Jonathan Feinberg:3:1,Jonathan Feinberg:2:2,Jonathan Feinberg:8:2,Jonathan Feinberg:31:2			
+processing.py:runtime/src/jycessing/mode/run/SketchRunner.java	254	Jonathan Feinberg:148:0,Jonathan Feinberg:3:0,Jonathan Feinberg:4:14,Jonathan Feinberg:42:14,Jonathan Feinberg:11:0,Jonathan Feinberg:5:6,Jonathan Feinberg:19:26,Jonathan Feinberg:1:1,Jonathan Feinberg:13:15,Jonathan Feinberg:28:0,Jonathan Feinberg:31:19,Jonathan Feinberg:14:2,Jonathan Feinberg:6:9,Jonathan Feinberg:6:0,Jonathan Feinberg:18:10,Jonathan Feinberg:13:1,James Gilles:1:1,James:6:4,Jonathan Feinberg:0:1,Jonathan Feinberg:1:1,Jonathan Feinberg:4:0,Jonathan Feinberg:4:3,Jonathan Feinberg:54:55,Jonathan Feinberg:4:0			
+processing.py:runtime/src/jycessing/mode/run/SketchService.java	12	Jonathan Feinberg:14:0,Jonathan Feinberg:1:5,Jonathan Feinberg:2:0,James:3:1,Jonathan Feinberg:0:2			
+processing.py:runtime/src/jycessing/mode/run/SketchServiceManager.java	131	Jonathan Feinberg:193:0,Jonathan Feinberg:2:0,Jonathan Feinberg:3:8,Jonathan Feinberg:8:24,Jonathan Feinberg:53:12,Jonathan Feinberg:5:9,Jonathan Feinberg:20:1,Jonathan Feinberg:1:0,Jonathan Feinberg:6:1,Jonathan Feinberg:26:21,Jonathan Feinberg:13:6,Jonathan Feinberg:6:7,Jonathan Feinberg:10:1,Jonathan Feinberg:40:199,Jonathan Feinberg:5:2,Jonathan Feinberg:1:2,Jonathan Feinberg:18:1,Jonathan Feinberg:4:4,Jonathan Feinberg:6:0,Jonathan Feinberg:8:0,Luxapodular:2:1,Jonathan Feinberg:0:1,Jonathan Feinberg:5:4			
+processing.py:runtime/src/jycessing/mode/run/SketchServiceProcess.java	260	Jonathan Feinberg:193:0,Jonathan Feinberg:2:0,Jonathan Feinberg:3:8,Jonathan Feinberg:8:24,Jonathan Feinberg:53:12,Jonathan Feinberg:5:9,Jonathan Feinberg:20:1,Jonathan Feinberg:1:0,Jonathan Feinberg:6:1,Jonathan Feinberg:26:21,Jonathan Feinberg:13:6,Jonathan Feinberg:6:7,Jonathan Feinberg:10:1,Jonathan Feinberg:59:81,Jonathan Feinberg:2:2,Jonathan Feinberg:2:2,Jonathan Feinberg:12:1,Jonathan Feinberg:1:0,Jonathan Feinberg:3:18,Jonathan Feinberg:5:0,Jonathan Feinberg:13:11,Jonathan Feinberg:7:2,Jonathan Feinberg:2:1,James:5:3,James:0:2,James:4:0,James Gilles:1:0,Luxapodular:6:4,Jonathan Feinberg:1:2,Jonathan Feinberg:2:4,Jonathan Feinberg:5:0,Jonathan Feinberg:18:15,Jonathan Feinberg:5:1			
+processing.py:runtime/src/jycessing/mode/run/WrappedPrintStream.java	147	Jonathan Feinberg:111:0,Jonathan Feinberg:19:19,Jonathan Feinberg:27:1,Jonathan Feinberg:11:1,Jonathan Feinberg:3:3			
+processing.py:runtime/src/jycessing/primitives/PrimitiveFloat.java	22	Ralf Biedert:13:0,Ralf Biedert:1:1,Ralf Biedert:9:0,Jonathan Feinberg:1:1			
+processing.py:runtime/src/jycessing/pyde_preprocessor.py	96	Luxapodular:102:0,Luxapodular:33:33,Jonathan Feinberg:3:12,Jonathan Feinberg:17:26,Jonathan Feinberg:8:3,Jonathan Feinberg:2:2,Jonathan Feinberg:7:0			
+processing.py:testing/resources/data/foo.py	1	Jonathan Feinberg:1:0			
+processing.py:testing/resources/imported_module.py	2	Jonathan Feinberg:2:0,Jonathan Feinberg:2:2			
+processing.py:testing/resources/imported_module_with_pvector.py	5	Jonathan Feinberg:5:0,Jonathan Feinberg:1:1			
+processing.py:testing/resources/test_c_logical_and.py	5	Jonathan Feinberg:5:0			
+processing.py:testing/resources/test_c_logical_or.py	5	Jonathan Feinberg:5:0			
+processing.py:testing/resources/test_color.py	18	Jonathan Feinberg:11:0,Jonathan Feinberg:7:0			
+processing.py:testing/resources/test_constrain.py	9	Jonathan Feinberg:9:0			
+processing.py:testing/resources/test_exit.py	6	Jonathan Feinberg:6:0,Luca Damasco:1:1			
+processing.py:testing/resources/test_filter.py	29	Jonathan Feinberg:27:0,Luca Damasco:3:1			
+processing.py:testing/resources/test_from_future_with_settings.py	8	Jonathan Feinberg:8:0			
+processing.py:testing/resources/test_g.py	16	Jonathan Feinberg:9:0,Jonathan Feinberg:7:0			
+processing.py:testing/resources/test_hex.py	6	Jonathan Feinberg:6:0,Jonathan Feinberg:2:2			
+processing.py:testing/resources/test_import.py	5	Jonathan Feinberg:4:0,Jonathan Feinberg:2:1			
+processing.py:testing/resources/test_inherit_str.py	12	Jonathan Feinberg:11:0,Jonathan Feinberg:1:0,Jonathan Feinberg:1:1			
+processing.py:testing/resources/test_keyPressed_redefined.py	12	Jonathan Feinberg:12:0			
+processing.py:testing/resources/test_key_before_key_event.py	7	Jonathan Feinberg:6:0,Jonathan Feinberg:2:1			
+processing.py:testing/resources/test_lerp_color_before_setup.py	6	Jonathan Feinberg:6:0			
+processing.py:testing/resources/test_lerp_color_static_mode.py	3	Jonathan Feinberg:3:0			
+processing.py:testing/resources/test_load_in_initializer.py	9	Jonathan Feinberg:14:0,Jonathan Feinberg:1:1,Jonathan Feinberg:2:2,Jonathan Feinberg:1:2,Jonathan Feinberg:1:3,Jonathan Feinberg:1:0,Ralf Biedert:1:1,Jonathan Feinberg:1:7,Jonathan Feinberg:1:1,Luca Damasco:5:2			
+processing.py:testing/resources/test_loadthings.py	41	Jonathan Feinberg:32:0,Allison Parrish:9:0			
+processing.py:testing/resources/test_map.py	9	Jonathan Feinberg:9:0,Jonathan Feinberg:1:0,Jonathan Feinberg:0:1			
+processing.py:testing/resources/test_md5.py	6	Jonathan Feinberg:4:0,Jonathan Feinberg:1:0,Jonathan Feinberg:3:2			
+processing.py:testing/resources/test_millis.py	5	Jonathan Feinberg:5:0,Jonathan Feinberg:2:2			
+processing.py:testing/resources/test_mixed_mode_error.py	8	Jonathan Feinberg:6:0,Jonathan Feinberg:4:2			
+processing.py:testing/resources/test_mixed_smooth_error.py	8	Jonathan Feinberg:8:0			
+processing.py:testing/resources/test_pcore.py	3	Jonathan Feinberg:2:0,Jonathan Feinberg:1:0			
+processing.py:testing/resources/test_pixels.py	40	Jonathan Feinberg:40:0,Jonathan Feinberg:2:2			
+processing.py:testing/resources/test_pmatrixprint.py	3	Jonathan Feinberg:3:0			
+processing.py:testing/resources/test_primitives.py	5	Ralf Biedert:5:0			
+processing.py:testing/resources/test_pvector.py	140	Jonathan Feinberg:6:0,Jonathan Feinberg:18:1,Jonathan Feinberg:34:14,Jonathan Feinberg:1:0,James Gilles:28:0,James Gilles:9:2,Jonathan Feinberg:12:0,Jonathan Feinberg:9:1,Jonathan Feinberg:5:0,Jonathan Feinberg:8:0,Adam Parrish:10:0,Jonathan Feinberg:13:0,Jonathan Feinberg:3:0,Jonathan Feinberg:5:3			
+processing.py:testing/resources/test_pvector_in_imported_module.py	4	Jonathan Feinberg:4:0			
+processing.py:testing/resources/test_randint_domain_regression.py	4	Jonathan Feinberg:4:0			
+processing.py:testing/resources/test_set.py	31	Jonathan Feinberg:11:0,Jonathan Feinberg:9:1,Jonathan Feinberg:1:0,Jonathan Feinberg:15:4			
+processing.py:testing/resources/test_static_size.py	5	Jonathan Feinberg:2:0,Jonathan Feinberg:1:0,Luca Damasco:2:0,Jonathan Feinberg:3:3			
+processing.py:testing/resources/test_syspathappend.py	11	Jonathan Feinberg:11:0			
+processing.py:testing/resources/test_thread.py	25	Jonathan Feinberg:25:0			
+processing.py:testing/resources/test_unicode.py	3	Jonathan Feinberg:2:0,Jonathan Feinberg:1:0			
+processing.py:testing/resources/test_unittest.py	13	Jonathan Feinberg:13:0			
+processing.py:testing/resources/test_urllib.py	3	Jonathan Feinberg:2:0,Jonathan Feinberg:1:0			
+processing.py:testing/resources/test_urllib2.py	3	Jonathan Feinberg:2:0,Jonathan Feinberg:1:0			
+processing.py:testing/resources/test_writethings.py	25	Allison Parrish:25:0			
+processing.py:testing/src/test/jycessing/JycessingTests.java	338	Jonathan Feinberg:17:0,Jonathan Feinberg:45:6,Jonathan Feinberg:5:0,Jonathan Feinberg:9:3,Jonathan Feinberg:32:4,Jonathan Feinberg:5:0,Jonathan Feinberg:1:1,Jonathan Feinberg:6:0,Jonathan Feinberg:9:2,Jonathan Feinberg:13:13,Jonathan Feinberg:13:13,Jonathan Feinberg:9:4,Jonathan Feinberg:5:0,Jonathan Feinberg:5:0,Jonathan Feinberg:4:5,Jonathan Feinberg:2:2,Jonathan Feinberg:5:10,Ralf Biedert:1:1,Ralf Biedert:5:0,Ralf Biedert:5:0,Jonathan Feinberg:5:0,Jonathan Feinberg:10:0,Jonathan Feinberg:0:6,Jonathan Feinberg:2:2,Jonathan Feinberg:12:4,Jonathan Feinberg:20:11,Jonathan Feinberg:6:0,Jonathan Feinberg:1:1,Jonathan Feinberg:3:1,Jonathan Feinberg:29:7,Jonathan Feinberg:15:7,Jonathan Feinberg:1:1,Jonathan Feinberg:13:1,Jonathan Feinberg:6:4,Jonathan Feinberg:7:2,Jonathan Feinberg:5:0,Jonathan Feinberg:7:2,Jonathan Feinberg:2:2,Jonathan Feinberg:33:23,Jonathan Feinberg:1:0,James Gilles:9:4,James Gilles:1:1,James Gilles:1:0,James:4:19,James:0:5,Jonathan Feinberg:5:0,Jonathan Feinberg:0:1,Jonathan Feinberg:12:0,Jonathan Feinberg:22:0,Jonathan Feinberg:0:12,Jonathan Feinberg:4:0,Jonathan Feinberg:10:0,Jonathan Feinberg:5:0,Jonathan Feinberg:5:0,Jonathan Feinberg:8:2,Jonathan Feinberg:8:2,Jonathan Feinberg:10:0,Allison Parrish:6:0,Jonathan Feinberg:23:9,Jonathan Feinberg:12:0,Jonathan Feinberg:6:0,Jonathan Feinberg:5:0,Jonathan Feinberg:6:0			
+processing.py:testing/src/test/jycessing/TestSketch.java	67	James:63:0,James:6:5,James Gilles:8:0,Jonathan Feinberg:2:7			
+processing.py:testmode.sh	23	Jonathan Feinberg:11:0,Jonathan Feinberg:1:0,Jonathan Feinberg:1:1,Jonathan Feinberg:15:7,Jonathan Feinberg:2:2,Jonathan Feinberg:1:1,Jonathan Feinberg:8:5,Jonathan Feinberg:1:1,Jonathan Feinberg:8:8,Jonathan Feinberg:2:2,Jonathan Feinberg:1:1			
+processing.py:workspace/example.py	33	Ralf Biedert:12:0,Ralf Biedert:1:1,Ralf Biedert:24:3			
